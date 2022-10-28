@@ -1,0 +1,6 @@
+[19:16:50:108 INF (d9477ba6-0738-4fd5-aacb-d7b34e2a33a2)] HTTP GET /swagger/index.html responded 200 in 318.0128 ms
+[19:16:50:657 INF (96eb3521-16d6-496a-a31d-0761563f055c)] HTTP GET /swagger/v1/swagger.json responded 200 in 224.6126 ms
+[19:17:04:626 INF (9e687c88-8c79-43d7-aaf4-9171ea3c2571)] HTTP GET /WeatherForecast responded 200 in 54.3583 ms
+[19:17:07:509 INF (c4a830dd-220d-4bad-bf5e-15cde496cb6c)] HTTP GET /WeatherForecast responded 200 in 1.5304 ms
+[19:17:08:474 INF (c217d40b-3297-4fee-a48e-acd53831b01e)] HTTP GET /WeatherForecast responded 200 in 0.7538 ms
+[19:17:10:785 INF (d4244670-4879-4911-9d6d-cd59762da9f1)] HTTP GET /WeatherForecast responded 200 in 2.5662 ms

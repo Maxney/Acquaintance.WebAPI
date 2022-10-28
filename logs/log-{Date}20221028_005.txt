@@ -1,0 +1,7 @@
+[18:45:08:628 INF (da116551-29b9-494b-a011-a87303bb32b0)] HTTP GET /swagger/index.html responded 200 in 177.5001 ms
+[18:45:09:166 INF (971339d5-b5ec-45a3-8d5f-1b31e3b20a5d)] HTTP GET /swagger/v1/swagger.json responded 200 in 218.3145 ms
+[18:59:45:740 INF ()] Now listening on: https://localhost:7084
+[18:59:45:801 INF ()] Now listening on: http://localhost:5219
+[18:59:45:808 INF ()] Application started. Press Ctrl+C to shut down.
+[18:59:45:809 INF ()] Hosting environment: Development
+[18:59:45:809 INF ()] Content root path: C:\Users\GUA\Acquaintance.WebAPI\
